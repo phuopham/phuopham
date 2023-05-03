@@ -6,3 +6,4 @@ developer. PHP/Laravel, HTML/CSS/bootstrap are what i learnt and want to practic
 <div width="100%" align="center">  
   <img src="https://github.com/phuopham/github-stats/blob/master/generated/overview.svg">
   <img src="https://github.com/phuopham/github-stats/blob/master/generated/languages.svg">
+  </div>
