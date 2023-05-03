@@ -3,3 +3,6 @@
 developer. PHP/Laravel, HTML/CSS/bootstrap are what i learnt and want to practice right now (2022). Soon i will deep dive into Back-end Web developer like JAVA, nodeJS....
 - 💞️ I’m looking to collaborate on any project which required web development.
 - 📫 You could reach me at: thanhphuong89@gmail.com or www.linkedin.com/in/phuongpham89
+<div width="100%" align="center">  
+  <img src="https://github.com/phuopham/github-stats/blob/master/generated/overview.svg">
+  <img src="https://github.com/phuopham/github-stats/blob/master/generated/languages.svg">
